@@ -1,0 +1,5 @@
+guru:
+  jms:
+    username: DmitryJMS
+    password: qwerty123jms456
+    dburl: jdbc:dummy://jms.example.com
