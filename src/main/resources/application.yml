@@ -3,3 +3,11 @@ guru:
     username: DmitryJMS
     password: qwerty123jms456
     dburl: jdbc:dummy://jms.example.com
+
+---
+spring:
+  profiles: es
+
+guru:
+  jms:
+    username: Dmitry JMS es
